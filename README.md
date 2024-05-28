@@ -66,8 +66,8 @@ Two parameters are introduced:
 - *CLIPPING*: The gradient clipping parameter, with a default of **1.0**.
 
 ### Commands
-#### Attack on Varying Gradient Modules (Vanilla version)
-- To run the vanilla attacks using varying gradient modules in an equal weight setting:
+#### Attack on Varying Gradient Modules
+- To run the attacks using varying gradient modules in an equal weight setting:
 > ./partial_attack.sh DATASET BATCH_SIZE BERT_PATH GRAD_TYPE ATTACK_LAYER
 - Examples: 
 > ./partial_attack.sh cola 1 bert-base-uncased all_layers all  
