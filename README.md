@@ -3,9 +3,9 @@
 This is the project for: [To-be-updated (arXiv link)](arXiv).  
 This work investigates data reconstruction attacks through partially observed intermediate modules in a distributed Transformer training environment. Attacks employing gradient modules with varying granularity were explored. A differential privacy defense is examined to assess the feasibility of mitigating the risk of data disclosure.
 
-<div style="text-align: center;">
+<p align="center">
     <img src="./image/attack_scheme.png" alt="Attack Scheme" />
-</div>
+</p>
 
 ## Acknowledgements
 
