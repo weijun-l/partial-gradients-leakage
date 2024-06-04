@@ -1,6 +1,7 @@
 # Data Leakage from Partial Transformer Gradients
 
-This is the project for: [To-be-updated (arXiv link)](arXiv).  
+This project is based on the paper [Seeing the Forest through the Trees: Data Leakage from Partial Transformer Gradients](https://arxiv.org/abs/2406.00999).
+
 This work investigates data reconstruction attacks through partially observed intermediate modules in a distributed Transformer training environment. Attacks employing gradient modules with varying granularity were explored. A differential privacy defense is examined to assess the feasibility of mitigating the risk of data disclosure.
 
 <p align="center">
