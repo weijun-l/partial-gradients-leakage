@@ -88,3 +88,14 @@ Two parameters are introduced:
 > ./model_utility.sh DATASET BATCH_SIZE BERT_PATH NUM_EPOCHS NOISE CLIPPING
 - Examples: 
 >./model_utility.sh sst2 1 bert-base-uncased 2 0.01 1.0
+
+## Citation
+
+```
+@article{li2024seeing,
+  title={Seeing the Forest through the Trees: Data Leakage from Partial Transformer Gradients},
+  author={Li, Weijun and Xu, Qiongkai and Dras, Mark},
+  journal={arXiv preprint arXiv:2406.00999},
+  year={2024}
+}
+```
